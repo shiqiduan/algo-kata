@@ -12,7 +12,7 @@ class Solution {
             int complement = target - nums[i];
             Integer index = map.get(complement);
             if (index != null) {
-                return new int[] {index, i};
+                return new int[] { index, i };
             }
             map.put(nums[i], i);
         }
