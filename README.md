@@ -1,16 +1,9 @@
 # algo-kata
 
-## 树
-
-### 1. 二叉树
-
-* 实现一个二叉搜索树【Java、Python、Go】
-* 常见 leetcode 练习题：
-
-|   题号   |                           题目名称                           |                           解题代码                           |   难度   |
-| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|   144    | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/) | Java、Python、Rust |   中等   |
-| ———————— |                        ——————————————                        |                       ————————————————                       | ———————— |
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)| Java、Rust、Python |Medium|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|Java、Rust、Python|Easy|
 
 # 资料
 * https://visualgo.net/zh
